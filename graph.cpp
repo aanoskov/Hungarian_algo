@@ -5,7 +5,7 @@
 using namespace std;
 
 
-/*int main()
+int main()
 {
 	freopen("input.txt", "r", stdin);
 	freopen("output.txt", "w", stdout);
@@ -75,4 +75,4 @@ using namespace std;
 	fclose(stdout);
 	getchar();
 	return 0;
-}*/
+}

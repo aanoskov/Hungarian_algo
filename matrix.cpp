@@ -6,7 +6,7 @@
 #include <time.h>
 
 using namespace std;
-/*
+
 
 vector<vector<int>> g;
 int sec_step(int& cnt, unsigned int& n)
@@ -71,9 +71,9 @@ int sec_step(int& cnt, unsigned int& n)
 	}
 	return cnt;
 }
-*/
 
-/*int main()
+
+int main()
 {
 	clock_t start = clock();
 	freopen("input.txt", "r", stdin);
@@ -199,7 +199,7 @@ int sec_step(int& cnt, unsigned int& n)
 			}
 		}
 	}
-	/*for (size_t i = 0; i < n; i++)
+	for (size_t i = 0; i < n; i++)
 	{
 		for (size_t j = 0; j < n; j++)
 			cout << g[i][j] << " ";
@@ -220,4 +220,4 @@ int sec_step(int& cnt, unsigned int& n)
 	fclose(stdout);
 	getchar();
 	return 0;
-}*/
+}
